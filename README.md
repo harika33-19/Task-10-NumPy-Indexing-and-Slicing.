@@ -1,4 +1,4 @@
-# Task-9-NumPy-Indexing-and-Slicing.
+# Task-10 NumPy-Indexing-and-Slicing.
 
 ## Overview
 This project demonstrates how to access elements, rows, columns, and ranges in NumPy arrays using indexing and slicing.
